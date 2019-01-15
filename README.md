@@ -1,2 +1,0 @@
-# ClickOutsideReactComponent
-Created with CodeSandbox
